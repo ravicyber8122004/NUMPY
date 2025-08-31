@@ -1,0 +1,1 @@
+print(arr1.dtype)  # foe return the data type of element of array
